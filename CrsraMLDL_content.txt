@@ -1,0 +1,1810 @@
+
+----------------    Machine Learning _ Andrew Ng (old)    ----------------
+chapter 01: Intro
+chapter 02: Linear Regression (single Variable)
+chapter 03: Linear Algebra Review
+chapter 04: Linear Regression (Multiple Variables)
+chapter 05: Octave Tutorial
+chapter 06: Logistic Regression
+chapter 07: Regularization
+chapter 08: Neural Networks Representation
+chapter 09: Neural Networks Learning
+chapter 10: Advice For Applying Machine Learning
+chapter 11: Machine Learning System Design
+chapter 12: Support Vector Machines
+chapter 13: Clustering
+chapter 14: Dimensionality Reduction
+chapter 15: Anomaly Detection
+chapter 16: Recommender Systems
+chapter 17: Large Scale Machine Learning
+chapter 18: Application Example
+chapter 19: Concluusion
+
+--------  Intro  --------
+1.1	— What Is Machine Learning — [  ]
+1.2	— Supervised Learning — [ Machine Learning _ Andrew Ng ]
+1.3	— Unsupervised Learning — [ Machine Learning _ Andrew Ng]
+
+
+--------  Linear Regression (single Variable)  --------
+2.1	— Linear Regression With One Variable _ Model Representation — Andre
+2.2	— Linear	Regression	With	One Variable	_	CostFunction — Andrew Ng
+2.3	— Linear	Regression	With	One Variable	_	Cost Function Intuition @1 
+2.4	— Linear	Regression	With	One Variable	_	Cost Function Intuition @2 
+2.5	— Linear Regression With One Variable _ Gradient Descent — [ Andrew 
+2.6	— Linear	Regression	With	One Variable	_	Gradient Descent Intuition —
+2.7	— Linear	Regression	With	One Variable	_	Gradient Descent For Linear 
+2.8	— What's Next — [ Machine Learning _ Andrew Ng _ Stanford University
+
+
+--------  Linear Algebra Review  --------
+3.1	— Linear Algebra Review _ Matrices And Vectors — [ Machine Learning 
+3.2	— Linear Algebra Review _ Addition And Scalar Multiplication — [Andr
+3.3	— Linear Algebra Review _ Matrix Vector Multiplication — [ Machine L
+3.4	— Linear Algebra Review _ Matrix-Matrix Multiplication — [ Andrew N
+3.5	— Linear Algebra Review _ Matrix Multiplication Properties — [ Andre
+3.6	— Linear Algebra Review _ Inverse And Transpose — [ Machine Learnin
+
+
+--------  Linear Regression (Multiple Variables)  --------
+4.1 — Linear Regression With Multiple Variables - (Multiple Features) — 
+4.2 — Linear Regression With Multiple Variables -- (Gradient Descent For
+4.3	— Linear	Regression	With	Multiple Variables	_	Gradient In Practiceal
+4.4	— Linear	Regression	With	Multiple Variables	_	Gradient In Practiceal
+4.5	— Linear	Regression	With	Multiple Variables	_	Features And Polynomia
+4.6	— Linear	Regression	With	Multiple Variables	_	Normal Equation — [ An
+4.7	— Linear	Regression	With	Multiple Variables	_	Normal Equation Non ln
+
+
+--------  Octave Tutorial  --------
+5.1	— Octave Tutorial _ Basic Operations — [ Machine Learning _ Andrew
+5.2	— Octave Tutorial _ Moving Data Around — [ Machine Learning _ Andr
+5.3	— Octave Tutorial _ Computing On Data — [ Machine Learning _ Andre
+5.4	— Octave Tutorial _ Plotting Data — [ Machine Learning _ Andrew N
+5.5	— Octave Tutorial _ While If Statements And Functions — [ Andrew N
+5.6	— Octave Tutorial _ Vectorization — [ Machine Learning _ Andrew N
+5.7	— Octave Tutorial _ Programming Exercises — [ Machine Learning _ A
+
+
+--------  Logistic Regression  --------
+6.1	— Logistic Regression _ Classification-[ Machine Learning _ Andr
+6.2	— Logistic Regression _ Hypothesis Representation — [ Machine Learni
+6.3	— Logistic Regression _ Decision Boundary — [ Machine Learning _ And
+6.4	— Logistic Regression _ Cost Function — [ Machine Learning _ Andrew 
+6.5	— Logistic Regression _ Simplified Cost Function And Gradient Descen
+6.6	— Logistic Regression _ Advanced Optimization — [ Machine Learning 
+6.7	— Logistic Regression _ Multiclass Classification OneVsAll — [Andrew
+
+
+--------  Regularization  --------
+7.1	— Regularization _ The Problem Of Overfitting — [ Machine Learning 
+7.2	— Regularization _ Cost Function — [ Machine Learning _ Andrew Ng _ 
+7.3	— Regularization _ Regularized Linear Regression — [ Machine Learnin
+7.4	— Regularization _ Regularized Logistic Regression — [ Machine Learn
+
+
+--------  Neural Networks Representation  --------
+8.1	— Neural Networks Representation _ Non Linear Hypotheses — [Andrew N
+8.2	— Neural Networks Representation _ Neurons And The Brain — [Andrew N
+8.3	— Neural Networks Representation _ Model Representation-I — [ Andrew
+8.4	— Neural Networks Representation _ Model Representation-ll — [Andrew
+8.5	— Neural Networks Representation _ Examples And Intuitions-I — [ And
+8.6	— Neural Networks Representation _ Examples And Intuitions-ll — [ An
+8.7	— Neural Networks Representation _ Multiclass Classification — [Andr
+
+
+--------  Neural Networks Learning  --------
+9.1	— Neural Networks Learning _ Cost Function — [ Machine Learning _ An
+9.2	— Neural Networks Learning _ Backpropagation Algorithm — [ Machine L
+9.3	— Neural Networks Learning _ Backpropagation Intuition — [ Machine L
+9.4	— Neural Networks Learning _ Implementation Note Unrolling Parameter
+9.5	— Neural Networks Learning _ Gradient Checking — [ Machine Learning 
+9.6	— Neural Networks Learning _ Random Initialization — [ Machine Learn
+9.7	— Neural Networks Learning _ Putting It Together — [ Machine Learnin
+9.8	— Neural Networks Learning _ Autonomous Driving Example — [Andrew Ng
+
+
+--------  Advice For Applying Machine Learning  --------
+10.1	— Advice For Applying Machine Learning _ Deciding What To Try Next 
+10.2	— Advice For Applying Machine Learning _ Evaluating A Hypothesis — 
+10.3	— Advice For Applying Machine Learning _ Model Selection And Train 
+10.4	— Advice For Applying Machine Learning _ Diagnosing Bias Vs Varianc
+10.5	— Advice For Applying Machine Learning _ Regularization And Bias Va
+10.6	— Advice For Applying Machine Learning _ Learning Curves — [Andrew 
+10.7	— Advice For Applying Machine Learning _ Deciding What To Do Next (
+
+
+--------  Machine Learning System Design  --------
+11.1	— Machine Learning System Design _ Prioritizing What To Work On — [
+11.2	— Machine Learning System Design _ Error Analysis — [ Machine Learn
+11.3	— Machine Learning System Design _ Error Metrics For Skewed Classes
+11.4	— Machine Learning System Design _ Trading Off Precision And Recall
+11.5	— Machine Learning System Design _ Data For Machine Learning — [And
+
+
+--------  Support Vector Machines  --------
+12.1	— Support Vector Machines _ Optimization Objective — [ Machine Lea
+12.2	— Support Vector Machines _ Large Margin Intuition — [Machine Learn
+12.3	— Support Vector Machines _ Mathematics Behind Large Margin Classif
+12.4	— Support Vector Machines _ (Kernels-I) — [ Machine Learning _ Andr
+12.5	— Support Vector Machines _ (Kernels-ll) — [Machine Learning _ Andr
+12.6	— Support Vector Machines _ Using An SVM — [ Machine Learning _ And 
+
+
+--------  Clustering  --------
+13.1 — Clustering _ Unsupervised Learning _ Introduction — [ Andrew Ng 
+13.2	— Clustering _ KMeans Algorithm — [ Machine Learning _ Andrew Ng ]
+13.3	— Clustering _ Optimization Objective — [ Machine Learning _ Andre
+13.4	— Clustering _ Random Initialization — [ Machine Learning _ Andrew
+13.5	— Clustering _ Choosing The Number Of Clusters — [ Machine Learnin
+
+
+--------  Dimensionality Reduction  --------
+14.1	— Dimensionality Reduction Motivation I _ Data Compression — [ Andr
+14.2	—Dimensionality Reduction Motivation II .Visualization — [ Andrew 
+14.3	— Dimensionality Reduction _ Principal Component Analysis _ Problem
+14.4	— Dimensionality Reduction _ Principal Component Analysis Algorith
+14.5	— Dimensionality Reduction _ Choosing The Number Of Principal Compo
+14.6	— Dimensionality Reduction _ Reconstruction From Compressed Represe
+14.7	— Dimensionality Reduction _ Advice For Applying PCA — [ Machine Le
+
+
+--------  Anomaly Detection  --------
+15.1	— Anomaly Detection Problem _ Motivation — [ Machine Learning _ An
+15.2	— Anomaly Detection _ Gaussian Distribution — [ Machine Learning _ 
+15.3	— Anomaly Detection Algorithm — [ Machine Learning _ Andrew Ng _ St
+15.4	— Anomaly Detection _ Developing And Evaluating An Anomaly Detectio
+15.5	— Anomaly Detection _ Anomaly Detection Vs Supervised Learning — [ 
+15.6	— Anomaly Detection _ Choosing What Features To Use — [ Andrew Ng ]
+15.7	— Anomaly Detection _ Multivariate Gaussian Distribution — [ Andrew
+15.8	— Anomaly Detection _ Anomaly Detection Using The Multivariate Gaus
+
+
+--------  Recommender Systems  --------
+16.1	— Recommender Systems _ Problem Formulation — [ Machine Learning 
+16.2	— Recommender Systems _ Content Based Recommendations — [ Andrew N
+16.3	— Recommender Systems _ Collaborative Filtering — [ Machine Learni
+16.4	— Recommender Systems _ Collaborative Filtering Algorithm — [ Andr
+16.5	— Recommender Systems _ Vectorization Low Rank Matrix Factorizatio
+16.6	— Recommender Systems _ Implementational Detail Mean Normalization
+
+
+--------  Large Scale Machine Learning  --------
+17.1	— Large Scale Machine Learning _ Learning With Large Datasets — [ A
+17.2	— Large Scale Machine Learning _ Stochastic Gradient Descent — [ An
+17.3	— Large Scale Machine Learning _ Mini Batch Gradient Descent — [ An
+17.4	— Large Scale Machine Learning _ Stochastic Gradient Descent Conver
+17.5	— Large Scale Machine Learning _ Online Learning — [ Machine Learni
+17.6	— Large Scale Machine Learning _ Map Reduce And Data Parallelism — 
+
+
+--------  Application Example  --------
+18.1	—Application Example Photo OCR. Problem Description And Pipeline 
+18.2	— Application Example Photo OCR _ Sliding Windows — [ Machine Learn
+18.3	— Application Example Photo OCR _ Getting Lots Of Data Artificial D
+18.4	— Application Example Photo OCR _ Ceiling Analysis _ What Part to W
+
+
+19 — Conclusion Summary And ThankYou — [ Andrew Ng _ Stanford University
+
+
+
+
+
+
+----------------    Machine Learning Specialization _ Andrew Ng (New)   ----------------
+        Course 1: Machine-Learning
+		Course 2: Advanced-Learning-Algorithms
+		Course 3: Unsupervised-Learning, Recommenders, Reinforcement-learning
+
+Specialization - 3 course series
+The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
+
+This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.
+
+This 3-course Specialization is an updated version of Andrew’s pioneering Machine Learning course, rated 4.9 out of 5 and taken by over 4.8 million learners since it launched in 2012. 
+
+It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
+
+By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.
+
+Applied Learning Project
+
+By the end of this Specialization, you will be ready to:
+
+ 
+
+• Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
+
+• Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.
+
+• Build and train a neural network with TensorFlow to perform multi-class classification.
+
+• Apply best practices for machine learning development so that your models generalize to data and tasks in the real world.
+
+• Build and use decision trees and tree ensemble methods, including random forests and boosted trees.
+
+• Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
+
+• Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
+
+• Build a deep reinforcement learning model.
+
+
+
+-=-=-=-=-=-=-=-=-=-     Course 1: Machine-Learning      -=-=-=-=-=-=-=-=-=-=-
+Supervised Machine Learning: Regression and Classification
+https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction
+
+Course 1
+•
+33 hours
+•
+4.9(16,245 ratings)
+What you'll learn
+Build machine learning models in Python using popular machine learning libraries NumPy & scikit-learn
+
+Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression
+
+Skills you'll gain
+Category: Linear Regression
+Linear Regression
+Category: Regularization to Avoid Overfitting
+Regularization to Avoid Overfitting
+Category: Logistic Regression for Classification
+Logistic Regression for Classification
+Category: Gradient Descent
+Gradient Descent
+Category: Supervised Learning
+Supervised Learning
+
+
+#######    There are 3 modules in this course
+In the first course of the Machine Learning Specialization, you will:
+
+• Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
+• Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression
+
+The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. In this beginner-friendly program, you will learn the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
+
+This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.
+
+This 3-course Specialization is an updated and expanded version of Andrew’s pioneering Machine Learning course, rated 4.9 out of 5 and taken by over 4.8 million learners since it launched in 2012. 
+
+It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
+
+By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.
+
+
+-=-=-=-=-=-    Week 1: Introduction to Machine Learning    -=-=-=-=-
+Module 1 • 7 hours to complete
+Welcome to the Machine Learning Specialization! You're joining millions of others who have taken either this or the original course, which led to the founding of Coursera, and has helped millions of other learners, like you, take a look at the exciting world of machine learning!
+
+What's included
+20 videos
+3 quizzes
+2 app items
+4 ungraded labs
+
+
+20 videos
+•
+Total 146 minutes
+Welcome to machine learning!•2 minutes•Preview module
+Applications of machine learning•4 minutes
+What is machine learning?•5 minutes
+Supervised learning part 1•6 minutes
+Supervised learning part 2•7 minutes
+Unsupervised learning part 1•8 minutes
+Unsupervised learning part 2•3 minutes
+Jupyter Notebooks•4 minutes
+Linear regression model part 1•10 minutes
+Linear regression model part 2•6 minutes
+Cost function formula•9 minutes
+Cost function intuition•15 minutes
+Visualizing the cost function•8 minutes
+Visualization examples•6 minutes
+Gradient descent•8 minutes
+Implementing gradient descent•9 minutes
+Gradient descent intuition•7 minutes
+Learning rate•9 minutes
+Gradient descent for linear regression•6 minutes
+Running gradient descent•5 minutes
+3 quizzes
+•
+Total 35 minutes
+Practice quiz: Supervised vs unsupervised learning•15 minutes
+Practice quiz: Regression•10 minutes
+Practice quiz: Train the model with gradient descent•10 minutes
+2 app items
+•
+Total 6 minutes
+Intake Survey•1 minute
+[IMPORTANT] Have questions, issues or ideas? Join our Community!•5 minutes
+4 ungraded labs
+•
+Total 240 minutes
+Python and Jupyter Notebooks•60 minutes
+Optional lab: Model representation•60 minutes
+Optional lab: Cost function•60 minutes
+Optional lab: Gradient descent•60 minutes
+
+
+-=-=-=-=-=-    Week 2: Regression with multiple input variables    -=-=-=-=-
+Module 2 • 9 hours to complete
+This week, you'll extend linear regression to handle multiple input features. You'll also learn some methods for improving your model's training and performance, such as vectorization, feature scaling, feature engineering and polynomial regression. At the end of the week, you'll get to practice implementing linear regression in code.
+
+What's included
+10 videos
+2 quizzes
+1 programming assignment
+5 ungraded labs
+
+
+10 videos
+•
+Total 66 minutes
+Multiple features•9 minutes•Preview module
+Vectorization part 1•6 minutes
+Vectorization part 2•6 minutes
+Gradient descent for multiple linear regression•7 minutes
+Feature scaling part 1•6 minutes
+Feature scaling part 2•7 minutes
+Checking gradient descent for convergence•5 minutes
+Choosing the learning rate•6 minutes
+Feature engineering•3 minutes
+Polynomial regression•5 minutes
+2 quizzes
+•
+Total 45 minutes
+Practice quiz: Multiple linear regression•15 minutes
+Practice quiz: Gradient descent in practice•30 minutes
+1 programming assignment
+•
+Total 180 minutes
+Week 2 practice lab: Linear regression•180 minutes
+5 ungraded labs
+•
+Total 300 minutes
+Optional lab: Python, NumPy and vectorization•60 minutes
+Optional Lab: Multiple linear regression•60 minutes
+Optional Lab: Feature scaling and learning rate•60 minutes
+Optional lab: Feature engineering and Polynomial regression•60 minutes
+Optional lab: Linear regression with scikit-learn•60 minutes
+
+
+-=-=-=-=-=-    Week 3: Classification    -=-=-=-=-
+Module 3 • 16 hours to complete
+This week, you'll learn the other type of supervised learning, classification. You'll learn how to predict categories using the logistic regression model. You'll learn about the problem of overfitting, and how to handle this problem with a method called regularization. You'll get to practice implementing logistic regression with regularization at the end of this week!
+
+What's included
+12 videos
+2 readings
+4 quizzes
+1 programming assignment
+9 ungraded labs
+
+12 videos
+•
+Total 139 minutes
+Motivations•9 minutes•Preview module
+Logistic regression•9 minutes
+Decision boundary•10 minutes
+Cost function for logistic regression•11 minutes
+Simplified Cost Function for Logistic Regression•5 minutes
+Gradient Descent Implementation•6 minutes
+The problem of overfitting•11 minutes
+Addressing overfitting•8 minutes
+Cost function with regularization•9 minutes
+Regularized linear regression•8 minutes
+Regularized logistic regression•5 minutes
+Andrew Ng and Fei-Fei Li on Human-Centered AI•41 minutes
+2 readings
+•
+Total 4 minutes
+[IMPORTANT] Reminder about end of access to Lab Notebooks•2 minutes
+Acknowledgments•2 minutes
+4 quizzes
+•
+Total 120 minutes
+Practice quiz: Classification with logistic regression•30 minutes
+Practice quiz: Cost function for logistic regression•30 minutes
+Practice quiz: Gradient descent for logistic regression•30 minutes
+Practice quiz: The problem of overfitting•30 minutes
+1 programming assignment
+•
+Total 180 minutes
+Week 3 practice lab: logistic regression•180 minutes
+9 ungraded labs
+•
+Total 540 minutes
+Optional lab: Classification•60 minutes
+Optional lab: Sigmoid function and logistic regression•60 minutes
+Optional lab: Decision boundary•60 minutes
+Optional lab: Logistic loss•60 minutes
+Optional lab: Cost function for logistic regression•60 minutes
+Optional lab: Gradient descent for logistic regression•60 minutes
+Optional lab: Logistic regression with scikit-learn•60 minutes
+Optional lab: Overfitting•60 minutes
+Optional lab: Regularization•60 minutes
+
+
+
+
+
+
+
+-=-=-=-=-=-=-=-=-=-     Course 2: Advanced-Learning-Algorithms      -=-=-=-=-=-=-=-=-=-=-
+Advanced Learning Algorithms
+https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction
+
+Course 2
+•
+34 hours
+•
+4.9(4,334 ratings)
+What you'll learn
+Build and train a neural network with TensorFlow to perform multi-class classification
+
+Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
+
+Build and use decision trees and tree ensemble methods, including random forests and boosted trees
+
+Skills you'll gain
+Category: Tensorflow
+Tensorflow
+Category: Advice for Model Development
+Advice for Model Development
+Category: Artificial Neural Network
+Artificial Neural Network
+Category: Xgboost
+Xgboost
+Category: Tree Ensembles
+Tree Ensembles
+
+
+There are 4 modules in this course
+In the second course of the Machine Learning Specialization, you will:
+
+• Build and train a neural network with TensorFlow to perform multi-class classification
+• Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
+• Build and use decision trees and tree ensemble methods, including random forests and boosted trees
+
+The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. In this beginner-friendly program, you will learn the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
+
+This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.
+
+This 3-course Specialization is an updated and expanded version of Andrew’s pioneering Machine Learning course, rated 4.9 out of 5 and taken by over 4.8 million learners since it launched in 2012. 
+
+It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
+
+By the end of this Specialization, you will have mastered key theoretical concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.
+
+
+-=-=-=-=-    Neural Networks    -=-=-=-=-
+Module 1 • 7 hours to complete
+This week, you'll learn about neural networks and how to use them for classification tasks. You'll use the TensorFlow framework to build a neural network with just a few lines of code. Then, dive deeper by learning how to code up your own neural network in Python, "from scratch". Optionally, you can learn more about how neural network computations are implemented efficiently using parallel processing (vectorization).
+
+What's included
+17 videos
+4 quizzes
+1 programming assignment
+1 app item
+3 ungraded labs
+
+17 videos
+•
+Total 139 minutes
+Welcome!•2 minutes•Preview module
+Neurons and the brain•10 minutes
+Demand Prediction•16 minutes
+Example: Recognizing Images•6 minutes
+Neural network layer•9 minutes
+More complex neural networks•8 minutes
+Inference: making predictions (forward propagation)•5 minutes
+Inference in Code•6 minutes
+Data in TensorFlow•11 minutes
+Building a neural network•8 minutes
+Forward prop in a single layer•5 minutes
+General implementation of forward propagation•7 minutes
+Is there a path to AGI?•10 minutes
+How neural networks are implemented efficiently•4 minutes
+Matrix multiplication•9 minutes
+Matrix multiplication rules•9 minutes
+Matrix multiplication code•6 minutes
+4 quizzes
+•
+Total 40 minutes
+Practice quiz: Neural networks intuition•10 minutes
+Practice quiz: Neural network model•10 minutes
+Practice quiz: TensorFlow implementation•10 minutes
+Practice quiz: Neural network implementation in Python•10 minutes
+1 programming assignment
+•
+Total 180 minutes
+Practice Lab: Neural Networks for Binary Classification•180 minutes
+1 app item
+•
+Total 10 minutes
+[IMPORTANT] Have questions, issues or ideas? Join our Community!•10 minutes
+3 ungraded labs
+•
+Total 80 minutes
+Neurons and Layers•10 minutes
+Coffee Roasting in Tensorflow•10 minutes
+CoffeeRoastingNumPy•60 minutes
+
+
+-=-=-=-=-    Neural network training    -=-=-=-=-
+Module 2 • 10 hours to complete
+This week, you'll learn how to train your model in TensorFlow, and also learn about other important activation functions (besides the sigmoid function), and where to use each type in a neural network. You'll also learn how to go beyond binary classification to multiclass classification (3 or more categories). Multiclass classification will introduce you to a new activation function and a new loss function. Optionally, you can also learn about the difference between multiclass classification and multi-label classification. You'll learn about the Adam optimizer, and why it's an improvement upon regular gradient descent for neural network training. Finally, you will get a brief introduction to other layer types besides the one you've seen thus far.
+
+What's included
+15 videos
+4 quizzes
+1 programming assignment
+5 ungraded labs
+
+15 videos
+•
+Total 139 minutes
+TensorFlow implementation•3 minutes•Preview module
+Training Details•13 minutes
+Alternatives to the sigmoid activation•5 minutes
+Choosing activation functions•8 minutes
+Why do we need activation functions?•5 minutes
+Multiclass•3 minutes
+Softmax•11 minutes
+Neural Network with Softmax output•7 minutes
+Improved implementation of softmax•9 minutes
+Classification with multiple outputs (Optional)•4 minutes
+Advanced Optimization•6 minutes
+Additional Layer Types•8 minutes
+What is a derivative? (Optional)•22 minutes
+Computation graph (Optional)•19 minutes
+Larger neural network example (Optional)•9 minutes
+4 quizzes
+•
+Total 120 minutes
+Practice quiz: Neural Network Training•30 minutes
+Practice quiz: Activation Functions•30 minutes
+Practice quiz: Multiclass Classification•30 minutes
+Practice quiz: Additional Neural Network Concepts•30 minutes
+1 programming assignment
+•
+Total 180 minutes
+Practice Lab: Neural Networks for Multiclass classification •180 minutes
+5 ungraded labs
+•
+Total 195 minutes
+ReLU activation•60 minutes
+Softmax•60 minutes
+Multiclass•15 minutes
+Optional Lab: Derivatives•30 minutes
+Optional Lab: Back propagation•30 minutes
+
+
+-=-=-=-=-    Advice for applying machine learning    -=-=-=-=-
+Module 3 • 8 hours to complete
+This week you'll learn best practices for training and evaluating your learning algorithms to improve performance. This will cover a wide range of useful advice about the machine learning lifecycle, tuning your model, and also improving your training data.
+
+What's included
+17 videos
+3 quizzes
+1 programming assignment
+2 ungraded labs
+
+17 videos
+•
+Total 174 minutes
+Deciding what to try next•3 minutes•Preview module
+Evaluating a model•10 minutes
+Model selection and training/cross validation/test sets•13 minutes
+Diagnosing bias and variance•11 minutes
+Regularization and bias/variance•10 minutes
+Establishing a baseline level of performance•9 minutes
+Learning curves•11 minutes
+Deciding what to try next revisited•8 minutes
+Bias/variance and neural networks•10 minutes
+Iterative loop of ML development•7 minutes
+Error analysis•8 minutes
+Adding data•14 minutes
+Transfer learning: using data from a different task•11 minutes
+Full cycle of a machine learning project•8 minutes
+Fairness, bias, and ethics•9 minutes
+Error metrics for skewed datasets•11 minutes
+Trading off precision and recall•11 minutes
+3 quizzes
+•
+Total 90 minutes
+Practice quiz: Advice for applying machine learning•30 minutes
+Practice quiz: Bias and variance•30 minutes
+Practice quiz: Machine learning development process•30 minutes
+1 programming assignment
+•
+Total 180 minutes
+Practice Lab: Advice for Applying Machine Learning•180 minutes
+2 ungraded labs
+•
+Total 60 minutes
+Optional Lab: Model Evaluation and Selection•30 minutes
+Optional Lab: Diagnosing Bias and Variance•30 minutes
+
+
+-=-=-=-=-    Decision trees    -=-=-=-=-
+Module 4 • 7 hours to complete
+This week, you'll learn about a practical and very commonly used learning algorithm the decision tree. You'll also learn about variations of the decision tree, including random forests and boosted trees (XGBoost).
+
+What's included
+14 videos
+2 readings
+3 quizzes
+1 programming assignment
+2 ungraded labs
+
+14 videos
+•
+Total 143 minutes
+Decision tree model•7 minutes•Preview module
+Learning Process•11 minutes
+Measuring purity•7 minutes
+Choosing a split: Information Gain•11 minutes
+Putting it together•9 minutes
+Using one-hot encoding of categorical features•5 minutes
+Continuous valued features•6 minutes
+Regression Trees (optional)•9 minutes
+Using multiple decision trees•3 minutes
+Sampling with replacement•3 minutes
+Random forest algorithm•6 minutes
+XGBoost•6 minutes
+When to use decision trees•6 minutes
+Andrew Ng and Chris Manning on Natural Language Processing•47 minutes
+2 readings
+•
+Total 4 minutes
+[IMPORTANT] Reminder about end of access to Lab Notebooks•2 minutes
+Acknowledgements•2 minutes
+3 quizzes
+•
+Total 90 minutes
+Practice quiz: Decision trees•30 minutes
+Practice quiz: Decision tree learning•30 minutes
+Practice quiz: Tree ensembles•30 minutes
+1 programming assignment
+•
+Total 180 minutes
+Practice Lab: Decision Trees•180 minutes
+2 ungraded labs
+•
+Total 60 minutes
+Optional Lab: Decision Trees•30 minutes
+Optional Lab: Tree Ensembles•30 minutes
+
+
+
+
+
+
+
+-=-=-=-=-=-=-=-=-=-     Course 3: Unsupervised-Learning, Recommenders, Reinforcement-learning      -=-=-=-=-=-=-=-=-=-=-
+Unsupervised Learning, Recommenders, Reinforcement Learning
+https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction
+
+Course 3
+•
+27 hours
+•
+4.9(2,131 ratings)
+What you'll learn
+Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection
+
+Build recommender systems with a collaborative filtering approach and a content-based deep learning method
+
+Build a deep reinforcement learning model
+
+Skills you'll gain
+Category: Anomaly Detection
+Anomaly Detection
+Category: Unsupervised Learning
+Unsupervised Learning
+Category: Reinforcement Learning
+Reinforcement Learning
+Category: Collaborative Filtering
+Collaborative Filtering
+Category: Recommender Systems
+Recommender Systems
+
+
+There are 3 modules in this course
+In the third course of the Machine Learning Specialization, you will:
+
+• Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
+• Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
+• Build a deep reinforcement learning model.
+
+The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. In this beginner-friendly program, you will learn the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
+
+This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.
+
+This 3-course Specialization is an updated and expanded version of Andrew’s pioneering Machine Learning course, rated 4.9 out of 5 and taken by over 4.8 million learners since it launched in 2012. 
+
+It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
+
+By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.
+
+
+-=-=-=-=-    Unsupervised learning    -=-=-=-=-
+Module 1 • 9 hours to complete
+This week, you will learn two key unsupervised learning algorithms: clustering and anomaly detection
+
+What's included
+13 videos
+2 quizzes
+2 programming assignments
+1 app item
+
+13 videos
+•
+Total 120 minutes
+Welcome!•3 minutes•Preview module
+What is clustering?•4 minutes
+K-means intuition•6 minutes
+K-means algorithm•9 minutes
+Optimization objective•11 minutes
+Initializing K-means•8 minutes
+Choosing the number of clusters•7 minutes
+Finding unusual events•11 minutes
+Gaussian (normal) distribution•10 minutes
+Anomaly detection algorithm•11 minutes
+Developing and evaluating an anomaly detection system•11 minutes
+Anomaly detection vs. supervised learning•8 minutes
+Choosing what features to use•14 minutes
+2 quizzes
+•
+Total 60 minutes
+Clustering•30 minutes
+Anomaly detection•30 minutes
+2 programming assignments
+•
+Total 360 minutes
+k-means•180 minutes
+Anomaly Detection•180 minutes
+1 app item
+•
+Total 5 minutes
+[IMPORTANT] Have questions, issues or ideas? Join our Community!•5 minutes
+
+
+-=-=-=-=-    Recommender systems    -=-=-=-=-
+Module 2 • 10 hours to complete
+What's included
+15 videos
+3 quizzes
+2 programming assignments
+1 ungraded lab
+
+15 videos
+•
+Total 150 minutes
+Making recommendations•5 minutes•Preview module
+Using per-item features•11 minutes
+Collaborative filtering algorithm•13 minutes
+Binary labels: favs, likes and clicks•8 minutes
+Mean normalization•8 minutes
+TensorFlow implementation of collaborative filtering•11 minutes
+Finding related items•6 minutes
+Collaborative filtering vs Content-based filtering•9 minutes
+Deep learning for content-based filtering•9 minutes
+Recommending from a large catalogue•7 minutes
+Ethical use of recommender systems•10 minutes
+TensorFlow implementation of content-based filtering•4 minutes
+Reducing the number of features (optional)•12 minutes
+PCA algorithm (optional)•17 minutes
+PCA in code (optional)•11 minutes
+3 quizzes
+•
+Total 90 minutes
+Collaborative Filtering•30 minutes
+Recommender systems implementation•30 minutes
+Content-based filtering•30 minutes
+2 programming assignments
+•
+Total 360 minutes
+Collaborative Filtering Recommender Systems•180 minutes
+Deep Learning for Content-Based Filtering•180 minutes
+1 ungraded lab
+•
+Total 30 minutes
+PCA and data visualization (optional)•30 minutes
+
+
+-=-=-=-=-    Reinforcement learning    -=-=-=-=-
+Module 3 • 8 hours to complete
+This week, you will learn about reinforcement learning, and build a deep Q-learning neural network in order to land a virtual lunar lander on Mars!
+
+What's included
+18 videos
+3 readings
+3 quizzes
+1 programming assignment
+1 ungraded lab
+
+18 videos
+•
+Total 163 minutes
+What is Reinforcement Learning?•8 minutes•Preview module
+Mars rover example•6 minutes
+The Return in reinforcement learning•10 minutes
+Making decisions: Policies in reinforcement learning•2 minutes
+Review of key concepts•5 minutes
+State-action value function definition•10 minutes
+State-action value function example•5 minutes
+Bellman Equation•12 minutes
+Random (stochastic) environment (Optional)•8 minutes
+Example of continuous state space applications•6 minutes
+Lunar lander•5 minutes
+Learning the state-value function•16 minutes
+Algorithm refinement: Improved neural network architecture•3 minutes
+Algorithm refinement: ϵ-greedy policy•8 minutes
+Algorithm refinement: Mini-batch and soft updates (optional)•11 minutes
+The state of reinforcement learning•2 minutes
+Summary and thank you•3 minutes
+Andrew Ng and Chelsea Finn on AI and Robotics•33 minutes
+3 readings
+•
+Total 5 minutes
+[IMPORTANT] Reminder about end of access to Lab Notebooks•2 minutes
+Acknowledgments•2 minutes
+(Optional) Opportunity to Mentor Other Learners•1 minute
+3 quizzes
+•
+Total 90 minutes
+Reinforcement learning introduction•30 minutes
+State-action value function•30 minutes
+Continuous state spaces•30 minutes
+1 programming assignment
+•
+Total 180 minutes
+Reinforcement Learning•180 minutes
+1 ungraded lab
+•
+Total 60 minutes
+State-action value function (optional lab)•60 minutes
+
+
+
+
+
+
+
+----------------    Deep Learning Specialization _ Andrew Ng (New)   ----------------
+
+Specialization - 5 course series
+The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. 
+
+In this Specialization, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more.
+
+AI is transforming many industries. The Deep Learning Specialization provides a pathway for you to take the definitive step in the world of AI by helping you gain the knowledge and skills to level up your career. Along the way, you will also get career advice from deep learning experts from industry and academia.
+
+Applied Learning Project
+
+By the end you’ll be able to:
+
+ • Build and train deep neural networks, implement vectorized neural networks, identify architecture parameters, and apply DL to your applications
+
+• Use best practices to train and develop test sets and analyze bias/variance for building DL applications, use standard NN techniques, apply optimization algorithms, and implement a neural network in TensorFlow
+
+• Use strategies for reducing errors in ML systems, understand complex ML settings, and apply end-to-end, transfer, and multi-task learning
+
+• Build a Convolutional Neural Network, apply it to visual detection and recognition tasks, use neural style transfer to generate art, and apply these algorithms to image, video, and other 2D/3D data
+
+• Build and train Recurrent Neural Networks and its variants (GRUs, LSTMs), apply RNNs to character-level language modeling, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformers to perform Named Entity Recognition and Question Answering
+
+Course 1: Neural Networks and Deep Learning
+Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+Course 3: Structuring Machine Learning Projects
+Course 4: Convolutional Neural Networks
+Course 5: Sequence Models
+
+
+
+		Course 1: Neural Networks and Deep Learning
+
+https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+
+What you'll learn
+In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
+
+By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+
+The Deep Learning Specialization is our foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to gain the knowledge and skills to apply machine learning to your work, level up your technical career, and take the definitive step in the world of AI.
+
+Skills you'll gain
+Category: Tensorflow
+Tensorflow
+
+Category: Deep Learning
+Deep Learning
+
+Category: hyperparameter tuning
+hyperparameter tuning
+
+Category: Mathematical Optimization
+Mathematical Optimization
+
+
+
+
+#######    There are 4 modules in this course
+
+-=-=-=-=-=-=-=-        Introduction to Deep Learning       -=-=-=-=-=-=-
+Module 1 • 2 hours to complete
+Analyze the major trends driving the rise of deep learning, and give examples of where and how it is applied today.
+
+What's included
+6 videos
+2 readings
+1 quiz
+2 app items
+1 plugin
+
+
+6 videos
+•
+Total 74 minutes
+Welcome•5 minutes•Preview module
+What is a Neural Network?•7 minutes
+Supervised Learning with Neural Networks•8 minutes
+Why is Deep Learning taking off?•10 minutes
+About this Course•2 minutes
+Geoffrey Hinton Interview•40 minutes
+2 readings
+•
+Total 11 minutes
+Frequently Asked Questions•10 minutes
+Lecture Notes W1•1 minute
+1 quiz
+•
+Total 50 minutes
+Introduction to Deep Learning•50 minutes
+2 app items
+•
+Total 11 minutes
+Intake Survey•1 minute
+[IMPORTANT] Have questions, issues or ideas? Join our Community!•10 minutes
+1 plugin
+•
+Total 15 minutes
+New Plugin Item•15 minutes
+
+
+
+
+-=-=-=-=-=-=-=-        Neural Networks Basics       -=-=-=-=-=-=-
+Module 2 • 7 hours to complete
+Set up a machine learning problem with a neural network mindset and use vectorization to speed up your models.
+
+What's included
+19 videos
+5 readings
+1 quiz
+2 programming assignments
+
+19 videos
+•
+Total 160 minutes
+Binary Classification•8 minutes•Preview module
+Logistic Regression•5 minutes
+Logistic Regression Cost Function•8 minutes
+Gradient Descent•11 minutes
+Derivatives•7 minutes
+More Derivative Examples•10 minutes
+Computation Graph•3 minutes
+Derivatives with a Computation Graph•14 minutes
+Logistic Regression Gradient Descent•6 minutes
+Gradient Descent on m Examples•8 minutes
+Vectorization•8 minutes
+More Vectorization Examples•6 minutes
+Vectorizing Logistic Regression•7 minutes
+Vectorizing Logistic Regression's Gradient Output•9 minutes
+Broadcasting in Python•11 minutes
+A Note on Python/Numpy Vectors•6 minutes
+Quick tour of Jupyter/iPython Notebooks•3 minutes
+Explanation of Logistic Regression Cost Function (Optional)•7 minutes
+Pieter Abbeel Interview•16 minutes
+5 readings
+•
+Total 28 minutes
+Derivation of DL/dz (Optional)•10 minutes
+Lecture Notes W2•1 minute
+Deep Learning Honor Code•2 minutes
+Programming Assignment FAQ•10 minutes
+(Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace•5 minutes
+1 quiz
+•
+Total 50 minutes
+Neural Network Basics •50 minutes
+2 programming assignments
+•
+Total 240 minutes
+Python Basics with Numpy•60 minutes
+Logistic Regression with a Neural Network Mindset•180 minutes
+
+
+-=-=-=-=-=-=-=-        Shallow Neural Networks       -=-=-=-=-=-=-
+Module 3 • 5 hours to complete
+Build a neural network with one hidden layer, using forward propagation and backpropagation.
+
+What's included
+12 videos
+1 reading
+1 quiz
+1 programming assignment
+
+12 videos
+•
+Total 109 minutes
+Neural Networks Overview•4 minutes•Preview module
+Neural Network Representation•5 minutes
+Computing a Neural Network's Output•9 minutes
+Vectorizing Across Multiple Examples•9 minutes
+Explanation for Vectorized Implementation•7 minutes
+Activation Functions•10 minutes
+Why do you need Non-Linear Activation Functions?•5 minutes
+Derivatives of Activation Functions•7 minutes
+Gradient Descent for Neural Networks•9 minutes
+Backpropagation Intuition (Optional)•15 minutes
+Random Initialization•7 minutes
+Ian Goodfellow Interview•14 minutes
+1 reading
+•
+Total 1 minute
+Lecture Notes W3•1 minute
+1 quiz
+•
+Total 50 minutes
+Shallow Neural Networks•50 minutes
+1 programming assignment
+•
+Total 180 minutes
+Planar Data Classification with One Hidden Layer•180 minutes
+
+
+
+
+-=-=-=-=-=-=-=-        Deep Neural Networks       -=-=-=-=-=-=-
+Module 4 • 8 hours to complete
+
+Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks.
+
+What's included
+8 videos
+7 readings
+1 quiz
+2 programming assignments
+
+8 videos
+•
+Total 64 minutes
+Deep L-layer Neural Network•5 minutes•Preview module
+Forward Propagation in a Deep Network•7 minutes
+Getting your Matrix Dimensions Right•11 minutes
+Why Deep Representations?•10 minutes
+Building Blocks of Deep Neural Networks•8 minutes
+Forward and Backward Propagation•10 minutes
+Parameters vs Hyperparameters•7 minutes
+What does this have to do with the brain?•3 minutes
+7 readings
+•
+Total 44 minutes
+Optional Reading: Feedforward Neural Networks in Depth•10 minutes
+Clarification For: What does this have to do with the brain?•1 minute
+Lecture Notes W4•1 minute
+[IMPORTANT] Reminder about end of access to Lab Notebooks•2 minutes
+Confusing Output from the AutoGrader•10 minutes
+References •10 minutes
+Acknowledgments•10 minutes
+1 quiz
+•
+Total 50 minutes
+Key Concepts on Deep Neural Networks•50 minutes
+2 programming assignments
+•
+Total 360 minutes
+Building your Deep Neural Network: Step by Step•180 minutes
+Deep Neural Network - Application•180 minutes
+
+
+
+
+
+
+		-----------------------    Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization    -----------------------
+What you'll learn
+In the second course of the Deep Learning Specialization, you will open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
+
+By the end, you will learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
+
+The Deep Learning Specialization is our foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to gain the knowledge and skills to apply machine learning to your work, level up your technical career, and take the definitive step in the world of AI.
+
+Skills you'll gain
+Category: Gated Recurrent Unit (GRU)
+Gated Recurrent Unit (GRU)
+Category: Recurrent Neural Network
+Recurrent Neural Network
+Category: Natural Language Processing
+Natural Language Processing
+Category: Long Short Term Memory (LSTM)
+Long Short Term Memory (LSTM)
+Category: Attention Models
+Attention Models
+
+
+There are 3 modules in this course
+
+-=-=-=-    Practical Aspects of Deep Learning   -=-=-=-
+Module 1 • 12 hours to complete
+Discover and experiment with a variety of different initialization methods, apply L2 regularization and dropout to avoid model overfitting, then apply gradient checking to identify errors in a fraud detection model.
+
+What's included
+15 videos
+4 readings
+1 quiz
+3 programming assignments
+1 app item
+
+15 videos
+•
+Total 130 minutes
+Train / Dev / Test sets•12 minutes•Preview module
+Bias / Variance•8 minutes
+Basic Recipe for Machine Learning•6 minutes
+Regularization•9 minutes
+Why Regularization Reduces Overfitting?•7 minutes
+Dropout Regularization•9 minutes
+Understanding Dropout•7 minutes
+Other Regularization Methods•8 minutes
+Normalizing Inputs•5 minutes
+Vanishing / Exploding Gradients•6 minutes
+Weight Initialization for Deep Networks•6 minutes
+Numerical Approximation of Gradients•6 minutes
+Gradient Checking•6 minutes
+Gradient Checking Implementation Notes•5 minutes
+Yoshua Bengio Interview•25 minutes
+4 readings
+•
+Total 8 minutes
+Clarification about Upcoming Regularization Video•1 minute
+Clarification about Upcoming Understanding Dropout Video•1 minute
+Lecture Notes W1•1 minute
+(Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace•5 minutes
+1 quiz
+•
+Total 50 minutes
+Practical aspects of Deep Learning •50 minutes
+3 programming assignments
+•
+Total 540 minutes
+Initialization•180 minutes
+Regularization•180 minutes
+Gradient Checking•180 minutes
+1 app item
+•
+Total 10 minutes
+[IMPORTANT] Have questions, issues or ideas? Join our Community!•10 minutes
+
+
+
+
+
+-=-=-=-    Optimization Algorithms   -=-=-=-
+Module 2 • 5 hours to complete
+Develop your deep learning toolbox by adding more advanced optimizations, random minibatching, and learning rate decay scheduling to speed up your models.
+
+What's included
+11 videos
+3 readings
+1 quiz
+1 programming assignment
+
+11 videos
+•
+Total 92 minutes
+Mini-batch Gradient Descent•11 minutes•Preview module
+Understanding Mini-batch Gradient Descent•11 minutes
+Exponentially Weighted Averages•5 minutes
+Understanding Exponentially Weighted Averages•9 minutes
+Bias Correction in Exponentially Weighted Averages•4 minutes
+Gradient Descent with Momentum•9 minutes
+RMSprop•7 minutes
+Adam Optimization Algorithm•7 minutes
+Learning Rate Decay•6 minutes
+The Problem of Local Optima•5 minutes
+Yuanqing Lin Interview•13 minutes
+3 readings
+•
+Total 3 minutes
+Clarification about Upcoming Adam Optimization Video•1 minute
+Clarification about Learning Rate Decay Video•1 minute
+Lecture Notes W2•1 minute
+1 quiz
+•
+Total 50 minutes
+Optimization Algorithms•50 minutes
+1 programming assignment
+•
+Total 180 minutes
+Optimization Methods•180 minutes
+
+
+
+
+
+-=-=-=-    Hyperparameter Tuning, Batch Normalization and Programming Frameworks   -=-=-=-
+Module 3 • 5 hours to complete
+
+Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily, then train a neural network on a TensorFlow dataset.
+
+What's included
+11 videos
+7 readings
+1 quiz
+1 programming assignment
+
+
+11 videos
+•
+Total 103 minutes
+Tuning Process•7 minutes•Preview module
+Using an Appropriate Scale to pick Hyperparameters•8 minutes
+Hyperparameters Tuning in Practice: Pandas vs. Caviar•6 minutes
+Normalizing Activations in a Network•8 minutes
+Fitting Batch Norm into a Neural Network•12 minutes
+Why does Batch Norm work?•11 minutes
+Batch Norm at Test Time•5 minutes
+Softmax Regression•11 minutes
+Training a Softmax Classifier•10 minutes
+Deep Learning Frameworks•4 minutes
+TensorFlow•15 minutes
+7 readings
+•
+Total 26 minutes
+Clarification about Upcoming Normalizing Activations in a Network Video•1 minute
+Clarifications about Upcoming Softmax Video•1 minute
+(Optional) Learn about Gradient Tape and More•1 minute
+Lecture Notes W3•1 minute
+[IMPORTANT] Reminder about end of access to Lab Notebooks•2 minutes
+References•10 minutes
+Acknowledgments•10 minutes
+1 quiz
+•
+Total 50 minutes
+Hyperparameter tuning, Batch Normalization, Programming Frameworks•50 minutes
+1 programming assignment
+•
+Total 180 minutes
+TensorFlow Introduction•180 minutes
+
+
+
+
+
+
+
+		---------------------------    Course 3: Structuring Machine Learning Projects    ---------------------------
+What you'll learn
+In the third course of the Deep Learning Specialization, you will learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
+
+By the end, you will be able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
+
+This is also a standalone course for learners who have basic machine learning knowledge. This course draws on Andrew Ng’s experience building and shipping many deep learning products. If you aspire to become a technical leader who can set the direction for an AI team, this course provides the "industry experience" that you might otherwise get only after years of ML work experience.
+ 
+The Deep Learning Specialization is our foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to gain the knowledge and skills to apply machine learning to your work, level up your technical career, and take the definitive step in the world of AI.
+
+Artificial Neural Network
+Category: Backpropagation
+Backpropagation
+Category: Python Programming
+Python Programming
+Category: Deep Learning
+Deep Learning
+Category: Neural Network Architecture
+Neural Network Architecture
+
+
+There are 2 modules in this course
+
+-=-=-=-   ML Strategy   -=-=-=-
+Module 1 • 3 hours to complete
+
+Streamline and optimize your ML production workflow by implementing strategic guidelines for goal-setting and applying human-level performance to help define key priorities.
+
+What's included
+13 videos
+2 readings
+1 quiz
+1 app item
+
+
+13 videos
+•
+Total 99 minutes
+Why ML Strategy•2 minutes•Preview module
+Orthogonalization•10 minutes
+Single Number Evaluation Metric•7 minutes
+Satisficing and Optimizing Metric•5 minutes
+Train/Dev/Test Distributions•6 minutes
+Size of the Dev and Test Sets•5 minutes
+When to Change Dev/Test Sets and Metrics?•11 minutes
+Why Human-level Performance?•5 minutes
+Avoidable Bias•6 minutes
+Understanding Human-level Performance•11 minutes
+Surpassing Human-level Performance•6 minutes
+Improving your Model Performance•4 minutes
+Andrej Karpathy Interview•15 minutes
+2 readings
+•
+Total 3 minutes
+Lecture Notes W1•1 minute
+Machine Learning Flight Simulator•2 minutes
+1 quiz
+•
+Total 75 minutes
+Bird Recognition in the City of Peacetopia (Case Study) •75 minutes
+1 app item
+•
+Total 10 minutes
+[IMPORTANT] Have questions, issues or ideas? Join our Community!•10 minutes
+
+
+
+-=-=-=-   ML Strategy   -=-=-=-
+Module 2 • 3 hours to complete
+
+Develop time-saving error analysis procedures to evaluate the most worthwhile options to pursue and gain intuition for how to split your data and when to use multi-task, transfer, and end-to-end deep learning.
+
+What's included
+11 videos
+2 readings
+1 quiz
+
+11 videos
+•
+Total 131 minutes
+Carrying Out Error Analysis•10 minutes•Preview module
+Cleaning Up Incorrectly Labeled Data•13 minutes
+Build your First System Quickly, then Iterate•5 minutes
+Training and Testing on Different Distributions•10 minutes
+Bias and Variance with Mismatched Data Distributions•18 minutes
+Addressing Data Mismatch•10 minutes
+Transfer Learning•11 minutes
+Multi-task Learning•12 minutes
+What is End-to-end Deep Learning?•11 minutes
+Whether to use End-to-end Deep Learning•10 minutes
+Ruslan Salakhutdinov Interview•17 minutes
+2 readings
+•
+Total 11 minutes
+Lecture Notes W2•1 minute
+Acknowledgments•10 minutes
+1 quiz
+•
+Total 75 minutes
+Autonomous Driving (Case Study) •75 minutes
+
+
+
+
+
+
+		---------------------------    Course 4: Convolutional Neural Networks    ---------------------------
+What you'll learn
+In the fourth course of the Deep Learning Specialization, you will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
+
+By the end, you will be able to build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data. 
+
+The Deep Learning Specialization is our foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to gain the knowledge and skills to apply machine learning to your work, level up your technical career, and take the definitive step in the world of AI.
+
+Skills you'll gain
+Category: Decision-Making
+Decision-Making
+Category: Machine Learning
+Machine Learning
+Category: Deep Learning
+Deep Learning
+Category: Inductive Transfer
+Inductive Transfer
+Category: Multi-Task Learning
+Multi-Task Learning
+
+
+There are 4 modules in this course
+
+-=-=-=-   Foundations of Convolutional Neural Networks   -=-=-=-
+Module 1 • 9 hours to complete
+Implement the foundational layers of CNNs (pooling, convolutions) and stack them properly in a deep network to solve multi-class image classification problems.
+
+What's included
+12 videos
+5 readings
+1 quiz
+2 programming assignments
+1 app item
+
+12 videos
+•
+Total 139 minutes
+Computer Vision•5 minutes•Preview module
+Edge Detection Example•11 minutes
+More Edge Detection•7 minutes
+Padding•9 minutes
+Strided Convolutions•8 minutes
+Convolutions Over Volume•10 minutes
+One Layer of a Convolutional Network•16 minutes
+Simple Convolutional Network Example•8 minutes
+Pooling Layers•10 minutes
+CNN Example•12 minutes
+Why Convolutions?•9 minutes
+Yann LeCun Interview•27 minutes
+5 readings
+•
+Total 9 minutes
+Clarifications about Upcoming Simple Convolutional Network Example Video•1 minute
+Clarifications about Upcoming CNN Example Video•1 minute
+Clarifications about Upcoming Why Convolutions?•1 minute
+Lecture Notes W1•1 minute
+(Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace•5 minutes
+1 quiz
+•
+Total 50 minutes
+The Basics of ConvNets •50 minutes
+2 programming assignments
+•
+Total 360 minutes
+Convolutional Model, Step by Step•180 minutes
+Convolution Model Application•180 minutes
+1 app item
+•
+Total 10 minutes
+[IMPORTANT] Have questions, issues or ideas? Join our Community!•10 minutes
+
+
+
+-=-=-=-   Deep Convolutional Models: Case Studies   -=-=-=-
+Module 2 • 9 hours to complete
+Discover some powerful practical tricks and methods used in deep CNNs, straight from the research papers, then apply transfer learning to your own deep CNN.
+
+What's included
+14 videos
+3 readings
+1 quiz
+2 programming assignments
+
+14 videos
+•
+Total 127 minutes
+Why look at case studies?•2 minutes•Preview module
+Classic Networks•18 minutes
+ResNets•7 minutes
+Why ResNets Work?•9 minutes
+Networks in Networks and 1x1 Convolutions•6 minutes
+Inception Network Motivation•10 minutes
+Inception Network•8 minutes
+MobileNet•16 minutes
+MobileNet Architecture•8 minutes
+EfficientNet•3 minutes
+Using Open-Source Implementation•4 minutes
+Transfer Learning•8 minutes
+Data Augmentation•9 minutes
+State of Computer Vision•12 minutes
+3 readings
+•
+Total 3 minutes
+Clarifications about Upcoming Inception Network Motivation Video•1 minute
+Lecture Notes W2•1 minute
+Note on the Upcoming Programming Assignment - Residual Networks•1 minute
+1 quiz
+•
+Total 50 minutes
+Deep Convolutional Models •50 minutes
+2 programming assignments
+•
+Total 360 minutes
+Residual Networks•180 minutes
+Transfer Learning with MobileNet•180 minutes
+
+
+
+
+-=-=-=-   Object Detection   -=-=-=-
+Module 3 • 8 hours to complete
+Apply your new knowledge of CNNs to one of the hottest (and most challenging!) fields in computer vision: object detection.
+
+What's included
+14 videos
+4 readings
+1 quiz
+2 programming assignments
+
+14 videos
+•
+Total 110 minutes
+Object Localization•11 minutes•Preview module
+Landmark Detection•5 minutes
+Object Detection•5 minutes
+Convolutional Implementation of Sliding Windows•11 minutes
+Bounding Box Predictions•14 minutes
+Intersection Over Union•4 minutes
+Non-max Suppression•8 minutes
+Anchor Boxes•9 minutes
+YOLO Algorithm•6 minutes
+Region Proposals (Optional)•6 minutes
+Semantic Segmentation with U-Net•7 minutes
+Transpose Convolutions•7 minutes
+U-Net Architecture Intuition•3 minutes
+U-Net Architecture•7 minutes
+4 readings
+•
+Total 13 minutes
+Clarifications about Upcoming Convolutional Implementation of Sliding Windows Video•1 minute
+Clarifications about Upcoming YOLO Algorithm Video•1 minute
+Lecture Notes W3•1 minute
+Clear Output Before Submitting (For U-Net Assignment)•10 minutes
+1 quiz
+•
+Total 50 minutes
+Detection Algorithms •50 minutes
+2 programming assignments
+•
+Total 360 minutes
+Car detection with YOLO•180 minutes
+Image Segmentation with U-Net•180 minutes
+
+
+
+
+-=-=-=-   Special Applications: Face recognition & Neural Style Transfer   -=-=-=-
+Module 4 • 8 hours to complete
+Explore how CNNs can be applied to multiple fields, including art generation and face recognition, then implement your own algorithm to generate art and recognize faces!
+
+What's included
+11 videos
+6 readings
+1 quiz
+2 programming assignments
+
+11 videos
+•
+Total 75 minutes
+What is Face Recognition?•4 minutes•Preview module
+One Shot Learning•4 minutes
+Siamese Network•4 minutes
+Triplet Loss•15 minutes
+Face Verification and Binary Classification•6 minutes
+What is Neural Style Transfer?•2 minutes
+What are deep ConvNets learning?•7 minutes
+Cost Function•3 minutes
+Content Cost Function•3 minutes
+Style Cost Function•13 minutes
+1D and 3D Generalizations•9 minutes
+6 readings
+•
+Total 25 minutes
+Clarifications about Upcoming Face Verification and Binary Classification Video•1 minute
+Clarifications about Upcoming Style Cost Function Video•1 minute
+Lecture Notes W4•1 minute
+[IMPORTANT] Reminder about end of access to Lab Notebooks•2 minutes
+References•10 minutes
+Acknowledgments•10 minutes
+1 quiz
+•
+Total 50 minutes
+Special Applications: Face Recognition & Neural Style Transfer•50 minutes
+2 programming assignments
+•
+Total 360 minutes
+Face Recognition•180 minutes
+Art Generation with Neural Style Transfer•180 minutes
+
+
+
+
+
+
+		---------------------------    Course 5: Sequence Models    ---------------------------
+What you'll learn
+In the fifth course of the Deep Learning Specialization, you will become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
+
+By the end, you will be able to build and train Recurrent Neural Networks (RNNs) and commonly-used variants such as GRUs and LSTMs; apply RNNs to Character-level Language Modeling; gain experience with natural language processing and Word Embeddings; and use HuggingFace tokenizers and transformer models to solve different NLP tasks such as NER and Question Answering.
+
+The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to take the definitive step in the world of AI by helping you gain the knowledge and skills to level up your career.
+
+Skills you'll gain
+Category: Facial Recognition System
+Facial Recognition System
+Category: Tensorflow
+Tensorflow
+Category: Convolutional Neural Network
+Convolutional Neural Network
+Category: Deep Learning
+Deep Learning
+Category: Object Detection and Segmentation
+Object Detection and Segmentation
+
+
+There are 4 modules in this course
+
+-=-=-=-   Recurrent Neural Networks   -=-=-=-
+Module 1 • 11 hours to complete
+Discover recurrent neural networks, a type of model that performs extremely well on temporal data, and several of its variants, including LSTMs, GRUs and Bidirectional RNNs,
+
+What's included
+12 videos
+4 readings
+1 quiz
+3 programming assignments
+1 app item
+
+12 videos
+•
+Total 111 minutes
+Why Sequence Models?•2 minutes•Preview module
+Notation•8 minutes
+Recurrent Neural Network Model•16 minutes
+Backpropagation Through Time•6 minutes
+Different Types of RNNs•9 minutes
+Language Model and Sequence Generation•12 minutes
+Sampling Novel Sequences•8 minutes
+Vanishing Gradients with RNNs•6 minutes
+Gated Recurrent Unit (GRU)•16 minutes
+Long Short Term Memory (LSTM)•9 minutes
+Bidirectional RNN•8 minutes
+Deep RNNs•5 minutes
+4 readings
+•
+Total 8 minutes
+Clarifications about Upcoming Gated Recurrent Unit (GRU) Video•1 minute
+Clarifications about Upcoming Long Short Term Memory (LSTM) Video•1 minute
+Lecture Notes W1•1 minute
+(Optional) Downloading your Notebook, Downloading your Workspace and Refreshing your Workspace•5 minutes
+1 quiz
+•
+Total 50 minutes
+Recurrent Neural Networks •50 minutes
+3 programming assignments
+•
+Total 540 minutes
+Building your Recurrent Neural Network - Step by Step•180 minutes
+Dinosaur Island-Character-Level Language Modeling •180 minutes
+Jazz Improvisation with LSTM•180 minutes
+1 app item
+•
+Total 10 minutes
+[IMPORTANT] Have questions, issues or ideas? Join our Community!•10 minutes
+
+
+
+-=-=-=-   Natural Language Processing & Word Embeddings   -=-=-=-
+Module 2 • 8 hours to complete
+Natural language processing with deep learning is a powerful combination. Using word vector representations and embedding layers, train recurrent neural networks with outstanding performance across a wide variety of applications, including sentiment analysis, named entity recognition and neural machine translation.
+
+What's included
+10 videos
+2 readings
+1 quiz
+2 programming assignments
+
+10 videos
+•
+Total 98 minutes
+Word Representation•10 minutes•Preview module
+Using Word Embeddings•9 minutes
+Properties of Word Embeddings•11 minutes
+Embedding Matrix•3 minutes
+Learning Word Embeddings•10 minutes
+Word2Vec•12 minutes
+Negative Sampling•11 minutes
+GloVe Word Vectors•11 minutes
+Sentiment Classification•7 minutes
+Debiasing Word Embeddings•11 minutes
+2 readings
+•
+Total 2 minutes
+Clarifications about Upcoming GloVe Word Vectors Video •1 minute
+Lecture Notes W2•1 minute
+1 quiz
+•
+Total 50 minutes
+Natural Language Processing & Word Embeddings •50 minutes
+2 programming assignments
+•
+Total 360 minutes
+Operations on Word Vectors - Debiasing•180 minutes
+Emojify•180 minutes
+
+
+
+
+-=-=-=-   Sequence Models & Attention Mechanism   -=-=-=-
+Module 3 • 8 hours to complete
+Augment your sequence models using an attention mechanism, an algorithm that helps your model decide where to focus its attention given a sequence of inputs. Then, explore speech recognition and how to deal with audio data.
+
+What's included
+10 videos
+3 readings
+1 quiz
+2 programming assignments
+
+10 videos
+•
+Total 98 minutes
+Basic Models•6 minutes•Preview module
+Picking the Most Likely Sentence•8 minutes
+Beam Search•11 minutes
+Refinements to Beam Search•10 minutes
+Error Analysis in Beam Search•9 minutes
+Bleu Score (Optional)•15 minutes
+Attention Model Intuition•9 minutes
+Attention Model•12 minutes
+Speech Recognition•8 minutes
+Trigger Word Detection•4 minutes
+3 readings
+•
+Total 21 minutes
+Clarifications about Upcoming Attention Model Video •10 minutes
+Lecture Notes W3•1 minute
+Instructions If You Are Unable to Open Your Notebook•10 minutes
+1 quiz
+•
+Total 50 minutes
+Sequence Models & Attention Mechanism •50 minutes
+2 programming assignments
+•
+Total 360 minutes
+Neural Machine Translation•180 minutes
+Trigger Word Detection•180 minutes
+
+
+
+
+-=-=-=-   Transformer Network   -=-=-=-
+Module 4 • 8 hours to complete
+
+What's included
+5 videos
+5 readings
+1 quiz
+1 programming assignment
+3 ungraded labs
+
+5 videos
+•
+Total 42 minutes
+Transformer Network Intuition•5 minutes•Preview module
+Self-Attention•11 minutes
+Multi-Head Attention•8 minutes
+Transformer Network•14 minutes
+Conclusion and Thank You!•2 minutes
+5 readings
+•
+Total 33 minutes
+Lecture Notes W4•1 minute
+[IMPORTANT] Reminder about end of access to Lab Notebooks•2 minutes
+References•10 minutes
+Acknowledgments•10 minutes
+(Optional) Opportunity to Mentor Other Learners•10 minutes
+1 quiz
+•
+Total 50 minutes
+Transformers •50 minutes
+1 programming assignment
+•
+Total 180 minutes
+Transformers Architecture with TensorFlow•180 minutes
+3 ungraded labs
+•
+Total 180 minutes
+Transformer Pre-processing•60 minutes
+Transformer Network Application: Named-Entity Recognition•60 minutes
+Transformer Network Application: Question Answering•60 minutes
+
